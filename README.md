@@ -1,1 +1,1 @@
-# Bill-Division-algo
+# Bill-Division-algo The program checks if Anna was charged fairly by removing the item she didn’t eat from the bill, splitting the rest in half, and then printing either "Bon Appetit" if Brian charged correctly or the amount he overcharged if not.
